@@ -1,4 +1,4 @@
 Chat-Program
 ============
 
-API socket programming
+CS6390.003 Project
